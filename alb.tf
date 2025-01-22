@@ -1,3 +1,5 @@
+// add target group
+
 resource "aws_lb_target_group" "tg1" {
   name = "alb-target-gp"
   port = 80
