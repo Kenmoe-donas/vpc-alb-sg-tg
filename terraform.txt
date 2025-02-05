@@ -1,0 +1,36 @@
+/*
+1- what is terraform?
+2- why terraform?
+3- building blocks of terraform
+    a- provider 
+    b- resource
+    c- data source
+    d- variable
+    e- output
+    f- module
+    g- provisioner
+    h- import
+    i- terraform commands
+    j-   a- terraform init
+         b- terraform plan
+         c- terraform apply
+         d- terraform destroy
+         e- terraform validate
+         f- terraform fmt
+         g- terraform show
+         h- terraform state
+         i- terraform import
+         j- terraform workspace
+
+4- state file management
+5- modules
+6- different environments
+7- sensitive data
+6- best practices
+    a- use modules
+    b- use version control
+    c- use remote state
+    d- use workspaces // workspace 
+    
+
+*/
